@@ -1,0 +1,5 @@
+Django~=5.1.5
+pip~=25.0
+pillow~=11.1.0
+django-modeltranslation~=0.19.12
+python-decouple~=3.8
