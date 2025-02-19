@@ -15,7 +15,8 @@ SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = True
 
-ALLOWED_HOSTS = ["46.101.225.185", "algorize.uz"]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'algorize.uz', '.algorize.uz']
+
 
 
 # Application definition
